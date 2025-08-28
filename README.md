@@ -13,3 +13,5 @@ Repositórios para armazenar resumos sobre Git e GitHub
 | AULAS | RESUMOS |
 |-------|---------|
 | Gravando alterações no repositório local|
+| Gravando alterações no repositório local|
+| Gravando alterações no repositório local|
